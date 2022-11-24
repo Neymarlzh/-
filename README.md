@@ -72,6 +72,6 @@
 	echo "执行回显命令，打印数据"
 ```
 
-[哔哩哔哩](https://www.bilibili.com,"点击进入B站")简称B站，成立于2012年，大量的原创和二次创作内容深受年轻人喜爱
+[哔哩哔哩](https://www.bilibili.com,"点击进入B站")简称B站，成立于202年，大量的原创和二次创作内容深受年轻人喜爱
 
-![壁纸](C://Users//Li//Desktop//11.png "图片描述") 
+![壁纸](https://beta.glilmu.com/i/2022/11/24/kbaph4.png "图片描述") 
